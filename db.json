@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "type": [
     { "id": 1, "title": "Keluhan" },
     { "id": 2, "title": "Permintaan" },
     { "id": 3, "title": "Pertanyaan" }
@@ -8,7 +8,7 @@
     { "id": 1, "body": "some comment about shipping", "postId": 1 },
     { "id": 2, "body": "some comment about container", "postId": 1 }
   ],
-  "profile": {
+  "problem_classification": {
     "name": "typicode"
   }
 }
