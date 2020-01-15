@@ -1,12 +1,17 @@
 {
-  "type": [
-    { "id": 1, "title": "Keluhan" },
-    { "id": 2, "title": "Permintaan" },
-    { "id": 3, "title": "Pertanyaan" }
+  "case1": [
+    { "id": 1, "nomor_tiket": "IPCTICK00000748" },
+    { "id": 2, "judul": "Payment not paid" },
+    { "id": 3, "tipe": "Pembayaran" },
+    { "id": 4, "waktu_pembuatan": "10-APR-2019 15:23:14" },
+    { "id": 5, "status": "Closed" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment about shipping", "postId": 1 },
-    { "id": 2, "body": "some comment about container", "postId": 1 }
+  "case2": [
+    { "id": 1, "nomor_tiket": "IPCTICK00000747" },
+    { "id": 2, "judul": "Payment unpaid" },
+    { "id": 3, "tipe": "Pembayaran" },
+    { "id": 4, "waktu_pembuatan": "27-MRT-2019 15:23:14" },
+    { "id": 5, "status": "Open" }
   ],
   "problem_classification": {
     "name": "typicode"
