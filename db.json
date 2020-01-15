@@ -9,8 +9,7 @@
     { "id": 1, "nomor_tiket": "IPCTICK00000742", "judul": "Timestamp", "tipe": "Keluhan", "waktu_pembuatan": "10-APR-2019 15:23:14", "status": "OnProgress" },
     { "id": 1, "nomor_tiket": "IPCTICK00000741", "judul": "Status Payment", "tipe": "Pertanyaan", "waktu_pembuatan": "10-APR-2019 15:23:14", "status": "Replied" },
     { "id": 1, "nomor_tiket": "IPCTICK00000740", "judul": "Fasilitas", "tipe": "Pernyataan", "waktu_pembuatan": "10-APR-2019 15:23:14", "status": "Open" },
-    { "id": 1, "nomor_tiket": "IPCTICK00000739", "judul": "Operation", "tipe": "Pertanyaan", "waktu_pembuatan": "10-APR-2019 15:23:14", "status": "Closed" },
-    
+    { "id": 1, "nomor_tiket": "IPCTICK00000739", "judul": "Operation", "tipe": "Pertanyaan", "waktu_pembuatan": "10-APR-2019 15:23:14", "status": "Closed" }
   ],
   "case2": [
     { "id": 1, "nomor_tiket": "IPCTICK00000747" },
