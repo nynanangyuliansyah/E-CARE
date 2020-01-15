@@ -1,16 +1,4 @@
 {
-  "case1": [
-    { "id": 1, "nomor_tiket": "IPCTICK00000748", "judul": "Payment not paid", "tipe": "Pembayaran", "waktu_pembuatan": "10-APR-2019 15:23:14", "status": "Closed" },
-    { "id": 1, "nomor_tiket": "IPCTICK00000747", "judul": "Payment paid", "tipe": "Pembayaran", "waktu_pembuatan": "10-APR-2019 15:23:14", "status": "OnProgress" },
-    { "id": 1, "nomor_tiket": "IPCTICK00000746", "judul": "Payment unpaid", "tipe": "Pembayaran", "waktu_pembuatan": "10-APR-2019 15:23:14", "status": "Open" },
-    { "id": 1, "nomor_tiket": "IPCTICK00000745", "judul": "Container", "tipe": "Pertanyaan", "waktu_pembuatan": "10-APR-2019 15:23:14", "status": "Replied" },
-    { "id": 1, "nomor_tiket": "IPCTICK00000744", "judul": "Shipping agent", "tipe": "Permintaan", "waktu_pembuatan": "10-APR-2019 15:23:14", "status": "Closed" },
-    { "id": 1, "nomor_tiket": "IPCTICK00000743", "judul": "Vessel schedule", "tipe": "Pernyataan", "waktu_pembuatan": "10-APR-2019 15:23:14", "status": "Open" },
-    { "id": 1, "nomor_tiket": "IPCTICK00000742", "judul": "Timestamp", "tipe": "Keluhan", "waktu_pembuatan": "10-APR-2019 15:23:14", "status": "OnProgress" },
-    { "id": 1, "nomor_tiket": "IPCTICK00000741", "judul": "Status Payment", "tipe": "Pertanyaan", "waktu_pembuatan": "10-APR-2019 15:23:14", "status": "Replied" },
-    { "id": 1, "nomor_tiket": "IPCTICK00000740", "judul": "Fasilitas", "tipe": "Pernyataan", "waktu_pembuatan": "10-APR-2019 15:23:14", "status": "Open" },
-    { "id": 1, "nomor_tiket": "IPCTICK00000739", "judul": "Operation", "tipe": "Pertanyaan", "waktu_pembuatan": "10-APR-2019 15:23:14", "status": "Closed" }
-  ],
   "case2": [
     { "id": 1, "nomor_tiket": "IPCTICK00000747" },
     { "id": 2, "judul": "Payment unpaid" },
